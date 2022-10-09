@@ -19,6 +19,6 @@ You are to create a SPA (single page application) application using HTML, CSS an
 
 ### Solution
 
-My Url is on https://chizobavictorystarwarsspa.netlify.app/
+My url is on https://chizobavictorystarwarsspa.netlify.app/
 
 
