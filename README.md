@@ -1,5 +1,3 @@
-# week-one-sq012
-
 ## Problem Description:
 
 You are to create a SPA (single page application) application using HTML, CSS and JavaScript. It shows all characters from a star wars API (https://swapi.dev/api/people). Read the documentation and implement as follows.
